@@ -1,0 +1,3 @@
+This is a fork of http://csstidy.sourceforge.net/ that fixes a bunch of bugs related to @font-face.
+
+See: http://www.pixelastic.com/blog/86:csstidy-and-the-woff-fonts for a starting point.
